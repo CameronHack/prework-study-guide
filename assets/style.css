@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: #151515;
+    color: #FFFFFF;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: #DCF4FF;
+    padding-top: 15px;
+}
+
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.card {
+    width: 80%;
+    margin: 40px auto;
+    border: 3px solid gray;
+    box-shadow: 5px 15px 30px 10px #151515;
+    background: linear-gradient(45deg, #1E1E1E, #2A2A2A);
+}
+
+body {
+    background: linear-gradient(0deg, #1C1B1F, #3F3E42);
+}
