@@ -15,8 +15,7 @@ footer {
 h1,
 h2 {
     text-align: center;
-    color: #DCF4FF;
-    padding-top: 15px;
+    color: #DCFFDD;
 }
 
 img {
@@ -33,7 +32,7 @@ ul {
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 18px;
-    color: #FFFFFF;
+    color: #FFECDC;
 }
 
 p {
@@ -45,8 +44,8 @@ p {
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 3px solid gray;
-    box-shadow: 5px 15px 30px 10px #151515;
+    border: 3px solid #DCF4FF;
+    box-shadow: 5px 10px 20px 5px #151515;
     background: linear-gradient(45deg, #1E1E1E, #2A2A2A);
 }
 
